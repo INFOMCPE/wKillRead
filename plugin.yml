@@ -1,0 +1,43 @@
+name: wKillRead
+main: READ\wKillRead\Main
+version: 1.0.3
+api: 2.0.0
+dependent: EconomyAPI
+load: STARTUP
+author: Святослав Дубровский
+description: Получение эффектов и денег, после убийства
+website: http://infomcpe.ru/resources/wkillread.176/
+commands:
+  wkset:
+    default: true
+    description: Управление плагином wKillRead
+    aliases: [wk]
+  wkbc:
+    default: true
+    description: Управление плагином wKillRead
+    aliases: [wbc]
+
+  wkmoney:
+    default: true
+    description: Управление плагином wKillRead
+    aliases: [wmoney]
+  wkeffect:
+    default: true
+    description: Управление плагином wKillRead
+    aliases: [weffect]
+  wkx2:
+    default: true
+    description: Управление плагином wKillRead
+    aliases: [wkx2]
+  wkx3:
+    default: true
+    description: Управление плагином wKillRead
+    aliases: [wkx3]
+  wkcon:
+    default: true
+    description: Управление плагином wKillRead
+    aliases: [wkcon]
+  wktg:
+    default: true
+    description: Управление плагином wKillRead
+    aliases: [wkteg]
